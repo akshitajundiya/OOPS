@@ -1,0 +1,16 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+class Pen {
+   String color;
+   String type;
+
+   Pen() {
+   }
+
+   public void write() {
+      System.out.println("Writing something");
+   }
+
+   public void printcolor() {
+      System.out.println(this.color);
+   }
+}
